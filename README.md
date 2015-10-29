@@ -33,7 +33,7 @@ Step 3: 69 % 10 != 0
 Your thing to do: create a class that returns if a card is valid or not
 
 ### 3 Lecture
-1. Lambada Expressions
+1. Lambda  Expressions
 2. Object Relationships
 3. Bowling Kata
 
